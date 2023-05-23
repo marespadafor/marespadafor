@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://marespadafor.github.io/marespadafor/sitemap.xml
+Sitemap: https://marespadafor.github.io/sitemap.xml
